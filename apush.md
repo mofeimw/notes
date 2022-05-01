@@ -620,3 +620,361 @@ Most white southerners actually didn't own any slaves. They were *Yeoman farmers
 
 Unit 5
 ------
+Westward Expansion
+------------------
+Named *Manifest Destiny* by newspaper editor John O'Sullivan in 1845  
+
+> "And that claim is by the right of our manifest destiny to overspread and to possess the whole of the continent which Providence has given us for the development of the great experiment of liberty and federated self-government entrusted to us."
+
+Americans needed access to more mineral and natural resources  
+
+- Discovery of gold in California in 1848
+    - California Gold Rush
+    - Subsequent discoveries in Colorado, the Dakotas, and Nevada caused more migration west
+
+**Preemption Acts** made vast tracts of land cheap for people who wanted to buy it, set up a homestead and start farming  
+Migration was largely made by middle class and not by the poor  
+
+James K. Polk Presidency (1845-1849)
+------------------------------------
+- Polk was a big believer of Manifest Destiny
+- Wanted to add Texas and Oregon to the Union
+
+**Texas**  
+
+- Texas still belonged to Mexico
+- However by 1830, there were 3 times as many Americans than Mexicans
+    - Generally Southern, Protestant, and slave-owning too
+- In 1829 Mexico made 2 requirements:
+    1. Must convert to Roman Catholicism
+    2. Slavery to be outlawed
+    
+    - The Americans ignored this, so the Mexico shut down the border
+- Revolted in 1834 under the leadership of Sam Houston and declared themselves an independent republic
+    - Mexico disagreed and sent forces down
+        - The Mexicans won a stunning victory at the Alamo and killed every American
+        - Captured the Mexican generals in the Battle of San Jacinto and forced them to sign an independence treaty
+        - Mexican government didn't recognize this (for good reason)
+        - Complicated matters when applying for statehood
+
+**Mexican-American War**  
+
+- Presidents Jackson, Van Buren, Harrison, and Tyler decided not to annex Texas
+- Polk did annex Texas
+- Mexico was fine with Texas being independent, but not happy with it joining the US
+    - Polk sent a diplomat named John Slidell to Mexico City
+        - Asked Mexican government to sell New Mexico and Californina to the US
+        - Also asked to settle the location of the southern border of Mexico
+            - Mexican government said it ran along the Nueces River
+            - American government said it ran along the Rio Grande
+- Polk sent General Zachary Taylor to the Rio Grande in 1846
+    - 11 Americans died when Mexico reacted
+- Polk was outraged, and on May 13th, 1846, Congress declared war
+- American troops led by Winfield Scott won Mexico City
+    - Treaty of Guadalupe Hidalgo (1848)
+        - Established the Rio Grande as the southern border of Texas
+        - Mexican cession - Mexico would cede California and New Mexico to the US for $15 million dollars
+            - *California and Mexico would enter as free states*
+        - All Mexicans living there would be granted US citizenship
+            - Indians, who were given citizenship by Mexico, were given no such offer by the US
+- **Wilmot Proviso**
+    - Proposed that any land gained by victory in the Mexican-American war be off limits for the expansion of slavery
+        - Ultimately voted down
+        - Some say this was the first step to Civil War
+
+**Oregon**  
+
+- Both the British and American laid competing claims
+    - British had been there for longer and had established a fur trade
+    - However, there were more Americans living there
+- The Oregon Territory was divided at the 49th parallel
+
+Views on Slavery (again)
+------------------------
+Southerners thought slavery was a constitutional right  
+
+- Wanted to continue the line drawn by the Missouri Compromise all the way to the Pacific Ocean
+
+**Free Soil Movement**  
+
+- Composed to Northern Democrats and Whigs
+- Wanted new territories acquired to be the dominion of *free laborers*
+- Popular Sovereignty - the people in each territory should decide on slavery for themselves
+- Free Soil Party
+    - Supported Wilmot Proviso
+    - **Weren't interested in abolishing slavery in the South; only stop it from expanding into new territories**
+
+**Abolitionists**  
+
+- *The Liberator* by William Lloyd Garrison
+- *Uncle Tom's Cabin* by Harriet Beecher Stowe
+- Frederick Douglas
+- John Brown
+    - Violent and fierce man
+    - Raid at Harpers Ferry (1859)
+        - Plan was to steal weapons and distribute to start an uprising
+        - Repelled by Robert E. Lee
+        - Hanged for his crimes
+- Underground Railroad
+    - A series of trails and safe houses
+    - Tens of thousands escaped using it
+
+**Compromise of 1850**  
+
+1. Mexican cession divided into Utah and New Mexico territories and would practice popular sovereignty
+2. California would be admitted as a free state
+3. Slave trade banned in Washington D.C.
+4. Stricter Fugitive Slave Law
+
+**Kansas-Nebraska Act (1854)**  
+
+- Nebraska was above the 36 30 line
+    - Slavery could not exist according to the Compromise of 1820
+- Stephen Douglas of Illinois proposed to divide it into two parts, Kansas and Nebraska
+    - States to decide by popular sovereignty
+        - **Bleeding Kansas** - violence caused by the sides fighting over free v. slavery
+    - Would effectively overturn the Compromise of 1820
+- Pro-slavery Missourians came across the border to vote for Kansas becoming a slave state as well
+- Resulted in two Constitutions
+    - Pro-slavery in Lecompton
+    - Anti-slavery in Topeka
+    - President Franklin Pierce recognized the pro-slavery government
+
+**Political Parties (again)**  
+Whig Party was divided into the pro-slavery Cotton Whigs and the anti-slavery Conscience Whigs  
+  
+Democratic Party was gaining strength as a regional pro-slavery party  
+  
+The Republican Party was formed in 1854  
+
+- Former Know Nothing Party members
+- Abolitionists
+- Free Soilers
+- Conscience Whigs
+
+They did not advocate the abolition of slavery, simply that slavery should not be able to spread into new territories  
+
+- Southern Democrats didn't care and saw this as a huge threat
+
+**Dredd Scott (1857)**  
+
+Dredd Scott was an enslaved state who lived in Missouri  
+He was taken by his master to live in Illinois and Wisconsin, two states in which slavery was illegal  
+Dredd Scott sued his master for his freedom, arguing that by living in free territory for two years he was free
+  
+Chief Justice Roger Taney was a Southern Democrat and decided against Scott  
+
+1. As a slave, Dredd Scott was not a citizen and therefore had no right to sue in federal court
+2. The Constitution clearly states that Congress cannot deprive any citizen of property
+    - Slave owners could take slaves anywhere they wanted without fear of being deprived of their property
+        - This was massive because effectivly any "free" state would now be open to slavery
+
+Lincoln Election/Secession
+--------------------------
+The Democratic Party was divided into two (three?) factions  
+The Northern Democrats were represented by Stephen Douglas (KS-NE Act), and wanted slavery question to be answered by popular sovereignty  
+  
+The Southern Democrats were represented by John Breckinridge, and wanted slavery in new territories protected by federal slave code, until they became states to decide by popular sovereignty  
+  
+Lincoln, a Republican who ran on the Free Soil platform, won 40% of the popular vote but won the electoral vote without a single electoral vote from the Southern states  
+  
+In December of 1860, South Carolina seceded from the Union, and within 6 weeks, Florida, Alabama, Georgia, Texas, Mississippi, and Louisiana had followed. Later, Virginia, Arkansas, Tennessee, and North Carolina also seceded, becoming the **Confederate States of America**
+
+Civil War
+---------
+### Advantages of each side
+South  
+
+- Fought a defensive war
+- Far greater and more experienced military leaders
+    - Robert E. Lee
+    - Stonewall Jackson
+
+North  
+
+- 4x the population of the South
+- Robust navy to control seas and rivers
+- Controlled majority of banks, manufacturing, and railroads
+- Well-established central government
+
+### Financing
+The North rapidly modernized production and manufacturing capacities  
+
+- Future barons of industry like Andrew Carnegie and John D. Rockefeller got their start by manufacturing for the Union effort
+
+The South relied mainly on taxes and tariffs on exports to raise revenue  
+
+- War tax
+    - Confederacy was built on the notion of states' rights, so people just refused
+
+### Public opinion
+New York City Draft Riots  
+
+- Law said you could pay $300 to dodge draft if called upon
+    - $300 was a lot back then
+    - Working class men thought this as an injustice
+- Protest against this in NYC turned violent
+    - At least 120 people were killed
+
+### Battles & strategy
+**Fort Sumter** - a federal possession located in Confederate South Carolina  
+
+- South Carolinians cut off supply lines to the fort from the North
+- Rather than fighting, Lincoln announced he would send provision to the trapped troops
+- South started firing up Union suppliers
+
+**First Battle of Bull Run**  
+
+- 30,000 Union troops marched to confront Confederate troops at Bull Run Creek in Virginia
+    - Civilians came out with picnics to watch
+- The Union were destroying the Confederate
+- But then Confederate reinforcements arrived with Stonewall Jackson, the tides were turned
+
+Anaconda Plan - The North would use its naval advantage to blockade Southern ports and control the Mississippi River, effectively splitting the South in half  
+Union leadership was pretty shitty but they improved (Ulysses S. Grant)  
+  
+The South strategy relied on foreign help (Britain and France)  
+
+- Both relied heavily on the South's exported cotton for their textile industries
+- However, both India and Egypt could produce cotton so this plan failed
+
+**Battle of Vicksburg**  
+
+- Union gained control of the Mississippi under the leadership of General Grant
+    - Anaconda Plan successfully cut the South in half
+- Destroyed South's infrastructure
+- Grant sent General William Tecumseh Sherman to capture Atlanta
+    - Sherman burnt it to the ground
+    - *March to the Sea* - destroyed railroads, burned crops and land *(scorched earth)* from Atlanta to Savannah
+
+**Appomattox Courthouse**  
+
+- General Grant and General Lee met on April 9th, 1865
+- Lee formally surrendered
+- The war was over
+
+### Famous Shit Lincoln Did
+**Emancipation Proclamation**  
+
+- Lincoln freed enslaved people only in the Confederacy beginning on January 1st, 1863
+- Only 5 states in the Union, *border states* (Delaware, Maryland, Kentucky, Missouri, West Virginia) had slaves, and slavery remained
+
+Basically Lincoln freed slaves in the Confederacy were he had no authority to do so, and didn't free them in the border states in which he did  
+  
+*The Emancipation Proclamation was more of a military strategy than a document of freedom*  
+
+- Enslaved workers in Confederacy escaped plantations and ran to safety of Union lines
+    - Some took up arms and fought for the Union cause
+- Closed the door on British involvement
+    - British had recently abolished slavery
+    - Didn't care about Southern cotton anymore
+
+**Gettysburg Address (November 19th, 1863)**  
+It was delivered at the dedication of the Gettysburg Cemetery  
+
+Purposes  
+
+1. Unify the nation
+2. Portray the struggle against slavery as the fulfillment of America's founding democratic ideals
+
+> "Four score and seven years ago..."
+
+***Lincoln reframed the purpose of the war***
+
+### Reconstruction (1865-1877)
+**RIP Lincoln**  
+
+- **John Wilkes Booth assassinated Lincoln on April 14th, 1865 at the Ford Theatre**
+- Vice President Andrew Johnson became the President
+    - Southerner from Tennessee
+    - Did attempt to carry out Lincoln's plan
+    - Stood by while former slave owning class recreated the same discrimination
+
+**How the South should be treated**  
+
+- Abraham Lincoln thought the South never left the Union because it was legally impossible would only do so
+    - Treating them harshly would only make matters worse
+    - **Ten-Percent Plan** established a minimal test of loyalty to return to Union
+        1. Could reestablish their state governments if 10% of the 1860 electorate pledged loyalty to the Union
+        2. State legislature had to ratify the 13th Amendment which abolished slavery
+
+**Sharecropping** - landowners provided seed and farm supplies to a worker, in exchange for a share of the harvest
+
+In theory it was a decent opportunity for newly emancipated slaves to get a fresh start, but in practice it was just another form of forced servitude  
+  
+**White Supremacy** - just because former enslaved people were now citizens didn't mean Southerners had to accept them as equal  
+
+- Ku Klux Klan was founded in 1867 on the principle that the white race was superior to the black race, and well, you know their reputation  
+
+**Radical Republicans**  
+
+- A group of Congressmen who hated Johnson's policies
+- Wanted Reconstruction to be led by Congress instead of the President
+- Pass legislature that upheld and extended rights for blacks in the South and suppressed Southern resurgence
+    - Freedmen's Bureau
+    - Civil Rights Act of 1866
+        - Protected citizenship of black people and gave them equal protection under the law
+- Andrew Johnson vetoed both
+    - Radical Republicans mustered a 2/3 majority to override the veto, and passed them
+- **14th Amendment** - All persons who were born or naturalized in the United States were citizens of the United States, and that every citizen enjoyed equal protection of the laws on the state level
+- **Reconstruction Acts of 1876**
+    - Passed over Johnson's veto
+    - Assured that all laws passed in the South would be enforced
+        - Divided the South into 5 military districts and sent federal troops
+    - Increased the requirements for Southern states to rejoin the Union
+        - Would now have to ratify the 14th Amendment as well
+        - Add to their state constitution a provision for universal male voting rights
+            - Give both black and white men voting rights
+            - Pissed women off though
+
+**(Wo)men**  
+15th Amendment - granted voting rights to the newly freed black population of the South  
+  
+Split the women's right movement into two groups  
+
+- Stanton and Anthony formed the National Woman Suffrage Association
+- Lucy Stone and Henry Blackwell argued that it was important to support Reconstruction efforts federally and work on women's suffrage on the state level
+    - Formed the American Woman Suffrage Association
+
+The *National* Woman Suffrage Association did *not* like the 15th Amendment  
+The *American* Woman Suffrage Association *did*
+
+**Impeachment of Andrew Johnson**  
+
+*Impeachment* - *trial* that determines if a president should be removed from office  
+  
+Congressional Republicans really wanted Johnson out of office  
+  
+Tenure of Office Act - made it illegal for the president to fire a member of his Cabinet without Congressional approvement  
+
+- Johnson didn't care and fired someone anyway
+- Congress brought a full scale impeachment trial
+    - After a 3 month trial, the Senate failed to kick him out by *one* vote
+    - However, it basically rendered Johnson powerless
+
+**Some? improvement**  
+
+- Black population established black schools and colleges
+- Some black men got elected to representative positions
+- *Freedmen's Bureau* helped reunite families separated by slavery and arranged for their education and social welfare
+
+**Black Codes**  
+
+- Placed many restrictions on black people in the south
+- Prohibited black Americans from borrowing money to buy or rent land
+    - -> sharecropping
+- Prohibited black people from testifying against white people in court
+    - Violence and injustice against blacks would never be heard from in court
+- Racial segregation in society
+
+**Samuel Tilden v. Rutherford B. Hayes (Election of 1876)**  
+
+- Kind of a reason Reconstruction ended
+- Tilden won the majority of the popular vote
+- Neither won enough electoral votes to win
+    - Both the Republicans and Democrats claimed victory in South Carolina, Louisiana, and Florida
+- Special electoral committee, with a majority of Republicans
+    - Surprise surprise they declared a Republican victory for Hayes
+- **Compromise of 1877**
+    - Democrats agreed to concede election to Hayes
+    - In exchange, Republicans agreed to remove all federal troops from the South
