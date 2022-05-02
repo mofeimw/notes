@@ -978,3 +978,584 @@ Tenure of Office Act - made it illegal for the president to fire a member of his
 - **Compromise of 1877**
     - Democrats agreed to concede election to Hayes
     - In exchange, Republicans agreed to remove all federal troops from the South
+
+* * *
+
+Unit 6
+------
+The West
+--------
+Mechanization - farming using humans & animals -> machines  
+
+- Mechanical reaper
+- Combine harvester
+
+1. Farmers could produce a lot more crops
+    - Corn & wheat ~2x 1870 -> 1900
+2. Small farmers becoming obsolete
+    - Couldn't compete with giant industrial farmers
+    - Couldn't afford new machines
+    - Farms bought out by bigger farms
+
+Supply & demand - prices fell, further putting pressure on small farmers who couldn't survive on the falling prices  
+  
+Manufactured goods prices soared  
+  
+Railroad problems  
+
+- Relied on railroads to transport crops and goods
+    - Railroad owners charged immensely high prices
+
+**National Grange Movement**  
+
+- Organized in 1868
+- Collective aimed at bringing isolated farmers together
+- Got political fast, however
+- Pushed for laws against railroad corps and their unfair rates
+    - Granger Laws
+        - Commerace Act of 1886 - required railroad rates to be reasonable and just, and established a federal agency to  enforce this (Interstate Commerce Commision)
+
+Federal government was pushing for settlers to push west (via railroads)  
+
+- Pacific Railroads Act
+    - Granted lots of land to railroad companies, who would then build a transcontinental railroad
+    - Transcontinental Railroad
+        - Opening ceremoy in Utah in 1869
+        - 4 more transcontinental railroads were completed in the next few decades
+- Homestead Act of 1862
+    - Granted potential migrants 160 acres of free land on the condition that they would farm it and settle it
+        - 160 acres was not enough to make a living
+        - Many would not make it
+            - See ^mechanization and small farms not able to compete with big ones
+
+**Gold and silver**  
+
+- Started in 1848 (California Gold Rush) and continued
+- Gold discovered in 1869 at Pikes Peak
+    - > 100,000 people moving to Kansas and Nebraska regions
+    - Boomtowns - Denver City and Boulder City
+        - Extremely diverse because whites and blacks are equally greedy
+
+### Society and Culture of Frontiers
+Sodbusters - homesteaders that were among the first to cut through the soil  
+  
+- Only about 1/5 took up the Homestead Act
+- Others bought land from railroad companies
+- Again, many of these farms failed
+
+By 1890, the US Census declared the frontier was officially settled, after the opening of the Oklahoma territory  
+  
+- The Oklahoma territory was designated as Indian territory
+    - Many East coast Indians were relocated as a result of the Indian Removal Act of the 1830s
+        - Didn't think Americans would settle there back then
+- Frederick Jackson Turner's *The Significance of the Frontier in American History*, 1893
+    - The closing of the frontier was bad because Westward Expansion was always a way of releasing American discontent
+    - The frontier was a mythical "fresh start"
+    - The West largely leveled class and social hierarchies
+        - Afraid that with no frontier, America would devolve into European-like class conflicts
+
+The Indian Problem  
+
+- Reservation System
+    - Indian tribes were assigned to strict boundaries
+    - Didn't suit many nomadic buffalo following tribes
+        - Didn't matter because buffalo population was decimated by Americans
+            - Food and sport too
+    - Several peoples resisted
+        - Sioux Wars
+- Indian Appropriation Act of 1871
+    - Officially ended federal recognition of the sovereignty of the Indian nations
+    - Nullified all previous treaties
+    - Lead to another war with the Sioux and others
+- Dawes Act of 1887
+    - Officially abandoned the reservation system
+    - Divided reservation lands into 160 acre plots to be farmed by the Indians
+    - Allowed Indians to become American citizens if they settled on the land and assimilated
+    - *Assimilationist Movement*
+        - Attempt to put an end to distinct Indian cultures through education, locational training, and Christianizing
+- Ghost Dance Movement
+    - Developed by Wovoka
+        - An Paiute Indian prophet in the Northwest
+    - Dance and the ghosts of their ancestors would return and drive the whites away
+- Wounded Knee
+    - South Dakota, 1890
+    - US Army was attempting to disarm a group of Lakota Indians
+    - An old man rose to perform the Ghost Dance and a gun went off
+    - Army killed more than 200 men, women, and children
+
+The New South
+-------------
+Henry Grady - the editor of a newspaper called the *Atlantic Constitution*  
+
+- Coined the phrase "New South"
+- The South needed to be "Northified"
+
+- Southern states surpassed New England states as the top manufacturer of textiles
+- Population and railroad construction grew immensely as well
+
+A few isolated cities were transformed, but mostly the South remained agriculturally  
+  
+Plantation owners still needed labor -> sharecropping  
+
+### Segregation
+**Plessy v. Ferguson**  
+
+- Louisiana, 1896
+- Law required separate rail cars for blacks and whites
+- Homer Plessy was 7/8 white and 1/8 black
+    - White passing, but under law he was black
+    - He rode in a whites only passenger car, and when asked to leave, he refused
+- Supreme Court ruled that racial segregation was Constitutional as long as the separate facilities were equal in kind and quality
+- ***Separate but Equal***
+
+**Jim Crow Laws**  
+
+- Segregated... everything
+    - Bathrooms
+    - Water fountains
+    - Public transportation
+    - Any public facility that could be segregated
+- Facilities were not equal either
+- Setback the few improvements that had been made
+    - Black people could not serve on juries or run for public office
+    - They were accused of crimes and not even given court appearances
+        - Lynch mobs and vigilante justice
+        - In the 1890s, > 1,000 black people were violently lynched
+
+### Fighting Back
+**Ida B. Wells**  
+
+- Editor of a black newspaper based in the South
+    - Editorialized against lynching and Jim Crow Laws
+    - Received many death threats
+    - Her presses were destroyed by mobs
+    - Fled to the North and continued
+
+**Henry Turner**  
+
+- Founded the International Migration Society in 1894
+    - Facilitated the migration of black Americans to Africa
+        - -> Libera
+        - Several thousand made the trip, but it wasn't sustainable due to lack of economical help and African diseases
+
+**Booker T. Washington**  
+
+- Black people did not need to fight for equality on a political level
+- Instead, black people needed to become self sufficient economically
+    - -> power in the voting booth
+- He was formally enslaved, and had done this himself
+- Deemed impractical
+
+Industrialization of America
+----------------------------
+Prior to industrialization, Americans made things either to use themselves or to be sold locally, at most regionally  
+During this period, Americans began mass-producing goods to be sold all over the world
+
+### Causes
+**Railroad**  
+
+- After the Civil War, miles of railroad built increased 5x
+- Federal government helped build
+    - Gave railroad companies land grants and loan subsidies
+    - ~100 million acres total
+- 5 transcontinental railroads
+    - San Francisco <-> Toledo (Ohio)
+    - Nebraska <-> California
+    - New Orleans <-> Los Angeles
+    - Kansas City <-> Los Angeles
+    - Minnesota <-> Washington
+- East and West were now easily accessible
+    - National market for goods
+
+**Bessemer Process**  
+
+- By Henry Bessemer in 1850s
+- Made steel of much stronger quality
+- Blasting air through molten iron = better steel
+- Enabled manufacturers to produce a far greater quantity *and* quality of steel
+
+**Coal & oil**  
+
+- Greater access to natural resources like coal and oil
+- Powered energy for industrialization
+- Anthracite coal
+    - Found mainly in Western Pennsylvania
+- Later, oil surpassed coal as the main fuel
+    - Automobiles
+
+**Telegraph**  
+
+- Invented by Samuel Morse in 1844
+- In this period, telegraph wires multiplied
+- Communications could travel long distances at the speed of electricity
+- Transatlantic cable
+    - Connected America to Europe
+    - Created an international market
+
+**Telephone**  
+
+- Invented by Alexander Graham Bell in 1876
+- Bell Telephone Company
+    - By end of 1880, ~50,000 telephones in America
+
+The Gilded Age (~1870-1900)
+---------------------------
+### Monopolies (not the game)
+- Small locally owned businesses became obsolete due to the large corporations
+    - Railroad, steel, and oil industries
+
+**John D. Rockefeller**  
+
+- Owner of Standard Oil
+- Forced competitors to sell their companies to him
+    - Eliminated competition
+    - Called *Horizontal Integration*
+        - One company buys out all of its competitors until effectively no competition left
+- By late 1880s, Standard Oil controlled ~90% of the industry
+
+**Andrew Carnegie**  
+
+- Dominated steel industry
+- Vertical integration - a company acquires all the complementary industries that support its business
+    - Bought up companies that handled all parts of steel production
+        - Mining companies
+        - Processing companies
+        - Distribution companies
+    - Complete domination of industry; little room for competition
+
+These massive corporations wanted to look abroad, and become and empire  
+The common people had no desire to do so, because, well, look at America's roots  
+  
+**Laissez Faire**  
+
+- French for "leave alone"
+- Politicians would not intervene or regulate these business practices
+    - *Bribes*
+
+Another building block of their companies was **underpaid laborers**  
+
+- Immigrants
+- Women
+- Children
+
+Huge influx of of immigrants from Europe, most of which settled in industrial centers looking for work  
+
+- Vastly underpaid
+- No government regulations on wages
+- Couldn't ask for higher wages because if they did, they would be replaced by another immigrant who would work for less
+- Factory owners realized they could employ women and children because they did not actually need skill to work; just operate the machines
+    - Fuck gender equality; they employed women because they could pay them 1/4 of a man's wages
+- Social Darwinism
+    - Strong eats the weak
+
+**Gospel of Wealth**  
+
+- Those with extraordinary wealth had a duty from God to invest wealth back into society - Andrew Carnegie
+    - Generous acts
+    - Philanthropy
+- Reduce the societal distance between the rich and the poor
+- Hard work resulted in wealth
+    - Wasn't interested in just handing out free money
+    - Used the money to create *opportunities* for the poor instead
+- Andrew Carnegie
+    - Gave away ~350 million dollars
+        - Libraries
+        - Concert halls
+        - Universities (Carnegie Mellon University -_-)
+
+These super rich people were referred to as either **Captains of Industry** or **Robber Barons**
+
+### Labor in the Gilded Age
+**The Rich**  
+
+- Surpassed the previous generation in terms of wealth
+- *Conspicuous Consumption* - Thorstein Veblen
+- Basically the rich were filthy rich and weren't afraid to show it
+
+**The Poor**  
+
+- Extremely low wages
+- Panic of 1873 & Panic of 1893
+    - Working class wages dropped heavily
+- Prices on many common items decreased due to mass manufacturing
+- Wages rose slightly
+- **Even though the gap between the rich and the poor grew, many Americans saw their standards of living rising**
+
+**Labor Unions**  
+
+Work was dangerous, but a single worker had no voice to be heard by these massive, money hungry companies  
+Labor Unions were formed as a result of this  
+
+- Political action
+- Slowdowns
+- Strikes
+
+- **Great Railroad Strike of 1877**
+    - Railroad companies cut wages to save money during a recession
+    - Unionized railroad workers went on strike to protest
+    - Strikes spread to 11 states and shut down more than 60% of the railroads
+    - Violence broke out, and President Hayes sent in federal troops - 100 dead
+    - Came to negotiations and terms
+- **Pullman Strike**
+    - Pullman Company manufactured sleeping cars for trains near Chicago
+    - Cut wages during Panic of 1893 to save money
+    - He fired all the union workers that came to bargain with him
+    - The rest of the workers went on strike
+    - Union worker Eugene V. Debs directed the members of his union not to work on any trains that had Pullman cars in them
+    - Railroad owners were on Pullman's side and hooked up Pullman cars to trains carrying federal mail
+        - Protesters couldn't (shouldn't?) mess with the Feds
+    - Eugene Debs and other leaders were eventually jailed for hindering rail traffic of federally authorized trains
+
+**Knights of Labor** - a truly national union who allowed anyone (anyone!) to join (1881)  
+
+- Destruction of trusts and monopolies
+- Abolition of child labor
+    - By the end of the 19th century, children (10-15) made of ~18% of the work force
+    - Children would get hurt and die
+- Had > 700,000 members at its peak
+- Fell apart after the **Haymarket Square Riot** in 1886
+    - Members gathered in May in Chicago to celebrate Mayday Labor Movement
+    - They protested peacefully for an 8 hour work day
+    - A bomb exploded
+        - Set off by an anarchist completely unaffiliated with the Knights
+    - Ruined their reputation
+        - Public sentiment shifted -> violent and radical
+        - Membership declined
+
+**American Federation of Labor**  
+
+- Association of craft workers led by Samuel Gompers
+- 1 million members by 1891
+- Similar goals to Knights of Labor
+    - Higher wages
+    - Safer working conditions
+
+### Immigration & Migration
+Immigration - moving from one country to another  
+Migration - moving *within* the same country, from region to region  
+  
+Both kinds occurred from 1865-1898  
+
+### Immigration
+- US population grew 3x in the last part of the 19th century
+- Large portion was due to the massive amount of immigrants
+    - ~16 million
+    - Mostly from Europe (British Isles, Scandinavia, Eastern Europe) *-> East Coast*
+        - Left because of growing poverty and overcrowding and religious persecution
+    - Largely settled in industrial centers
+        - Chicago, Pittsburg, New York
+    - Asian immigrants (Chinese) *-> West Coast*
+        - Chinese had come since California Gold Rush in 1840s and 1850s
+
+Cities were changing  
+Before the civil war, people from different social classes lived together in the cities  
+During the Gilded Age, the middle class and the wealthy migrated away from the urban cities, leaving the working class in the industrial areas  
+
+- Tenements
+    - Shitty living situations
+- Disease
+    - Due to close proximity
+    - Cholera, Typhus, Tuberculosis 
+- Ethnic enclaves
+    - Immigrants of the same culture coming together
+    - Established their own culture
+
+### Migration
+**Exoduster Movement** - a mass migration of Southern black people into the West  
+
+- Blacks left to fend for themselves after Reconstruction
+    - No federal protection
+    - Ku Klux Klan
+    - Jim Crow Laws
+- Starting in the late 1870s, ~40,000 black Southerners abandoned the Souther and migrated mostly to Kansas
+    - Also Oklahoma and Colorado
+- Colored Relief Board
+- Kansas Freedmen's Aid Society
+- Most successful Exodusters had settled in urban centers of Kansas
+    - Got work as domestic servants or trade workers
+- Vast majority were still in destitution, however
+    - Railroads had taken all the good land
+
+### American Response
+Henry Cabot Lodge - Protestant minister who argued that Anglo-Saxon Americans were committing "race suicide" by allowing so many "inferior" races to intermingle with "pure-blooded" Americans  
+  
+American Protective Association - organization against Catholics  
+
+- Millions of Irish immigrants were Catholic
+- Really didn't care about Catholicism, just that Irish Catholics were being voted into office
+
+**Labor Unions** feared that the immigrants would be desperate for work and would work for meager wages  
+Union leaders worried these immigrants would undermine their ability to negotiate with manufacturers  
+Then the manufacturers could fire all the unionized workers and replace them with underpaid immigrants  
+  
+**Social Darwinists** believed that immigrants, especially Irish immigrants, believed that they were inferior to "true" Americans  
+If they were to intermingle and produce offspring, the gene pool would be forever ruined  
+Came to believe the Irish were a different race than the White Americans (???)  
+  
+**Chinese immigrants on the West Coast**  
+
+- By 1852, ~20,000 Chinese were living in California
+- By 1870, ~20,000 -> > 50,000
+- Chinese immigrants carried the transcontinental railroad
+    - Took up tough jobs no one else would take
+- Were equally discriminated (if not more) by the nativists
+- Blamed for economic troubles when Panic of 1873 hit
+    - Depressed wages for everyone else because they were willing to work for so low
+- **Chinese Exclusion Act of 182** - banned any further Chinese immigration to the US
+    - *Only law in US history to target a specific nationality to be excluded from immigration*
+
+**Jane Addams**  
+
+- Settlement Houses
+    - Hull House
+        - Opened in 1889
+    - Help immigrants better assimilate to American society
+        - To find better economic & social opportunities
+    - Taught English
+    - Children enrolled in early childhood education programs
+    - Taught democratic ideals
+
+### The Middle Class
+A large corporation would have three layers - **executives** at the top, **laborers** at the bottom, and a new **managers** layer in between  
+They were called *white-collar workers* because they never got their white suits dirty from manual labor  
+
+- Accountants, legal services, healthcare, clerical work
+    - Women's roles began to grow in the clerical industry
+        - Women learned typing when the typewriter came out
+    - Women were being hired to teach schoolchildren as well
+- These people made enough to not be confined to the lower class, but not quite enough to chill with the elite upper class either
+- This became the new middle class
+- Along with this came an increase in leisure time activities
+    - Coney Island - the largest amusement park in the US at the time
+    - P.T. Barnum's circuses
+        - Go watch *The Greatest Showman* :)
+        - ^ After AP hell is over
+
+### Reform
+Henry George - a politician and economist who thought it was foolish so much wealth could be generated by a nation while at the same time so many of its citizens lived in poverty  
+
+His solution was the **single tax**, which would tax the rich more than the poor  
+
+**Socialism** - All the means of production in a society should be owned and regulated by the community and benefit everyone more or less equally  
+
+Eugene V. Debs joined with a few others and started the **Socialist Party of America** in 1901  
+
+- He ran for president, but didn't do so well
+- As a whole, while socialism picked up some pace, it never really completely caught on
+
+The **Social Gospel** believed that Christian principles ought to be applied not merely to one's self, but to cure the ills of society as well  
+
+- Many Protestant preachers crusaded for social justice for the urban poor in the last 20 years of the 19th century
+- Especially focused on middle class
+
+**Women's reforms**  
+Elizabeth Cady Stanton and Susan B. Anthony founded the National American Women's Suffrage Association in 1890  
+  
+Also took up the cause of **temperance** - against alcohol  
+The Women's Christian Temperance Union was formed in 1874  
+
+- Complete abstinence from alcohol
+- ~500,000 members by 1898
+- Largely peaceful, along with the Anti-Saloon League
+    - Anti-Saloon League sought to eliminate bars, taverns, and saloons
+
+**Carrie Nation** - hatchet wielding crazy woman that hacked apart bars and saloons
+
+### Role of Government
+*The Wealth of Nations* by Adam Smith in 1776  
+
+- First implementation of *Laissez Faire*
+- Economies are best governed by the laws of supply and demand
+- The "invisible hand of the market" will flourish when people make their own decisions
+
+However, Smith had also envisioned *competition*, something which the big businesses of the Gilded Age completely lacked  
+
+- During the Panic of 1893, President Grover Cleveland did pretty much nothing to alleviate the economic disaster
+- Even when the government did get involved, they did so half heartedly
+    - Supreme Court decided in 1886 that states couldn't regulate railroads
+    - Government created the *Interstate Commerce Commission* to ensure that states didn't violate this
+        - The ICC was severely underfunded though
+
+However, the government did get involved when gains for business and the economy could be made (but still wouldn't *regulate* businesses)  
+
+- Business leaders worked with Republican politicians to expand markets overseas with diplomacy
+    - Laissez Faire capitalists strongly supported the overthrow of the Hawaiian monarchy in 1893
+        - Led to the US annexing Hawaii in 1898 - new markets
+    - **Open Door Policy** between China and the US in 1899-1900
+        - Advocated for equal trading rights in all the ports of China, which were being consumed by European powers
+
+### Politics (again and again)
+**Democrats**  
+
+- Mainly Southerners
+- Championed states rights and racial segregation
+- Counted on votes from big city political machines and growing population of immigrants
+
+**Republicans**  
+
+- Mostly Northerners
+- More industrial party
+- Counted on votes from black people, middle class businessmen, and Protestants
+
+Neither party had a particularly strong legislative agenda  
+  
+Patronage - awarding federal jobs to faithful party supporters  
+Civil Service - when a candidate won an office, he would sit and listen to thousands of candidates looking for federal jobs because they had been a supporter of him  
+
+- Andrew Jackson was a big proponent of this
+    - Spoils system
+- Came under serious fire after the assassination of President James Garfield
+    - Listened to thousands of men after he won
+    - One man he passed on got salty and assassinated him at a train station a few months later
+
+Pendleton Act of 1881 - replaced the Civil Service system with a competitive examination  
+
+- Kind of didn't matter because shift in party philosophy/funding
+- Prior, candidates were funded by party faithful
+    - They felt they were owed jobs because of this
+- Now, they were funded from a handful of wealthy individuals
+
+Gold Standard - federal government would only print the amount of paper currency that could be backed by the amount of the gold in their vaults  
+
+- Currency held its value against inflation
+- Farmers and entrepreneurs wanted to expand the paper money supply
+    - Unlimited coinage of silver as well
+    - More currency would allow them to borrow more money
+    - Lower interest rates
+    - Could pay debts with inflated money as well
+
+They argued over *tariffs* as well, because back then much of the federal government's budget was funded by tariff revenue  
+
+- In the 1890s, tariffs provided for > half of all federal revenue
+- During the Civil War Congress had put protective tariffs
+    - Makes domestic products cheaper than importing, thus protecting local industries
+        - Helped industrialists, but not farmers
+        - Other countries enacted retalitary tariffs, which meant less international sales for them as well
+        - Consumers were pissed because their imported products got more expensive
+    - Now that the war was over, Congress didn't want to give up their income
+
+**Populist Party**  
+
+- Populist = for the people
+- **Omaha Platform**
+    - Direct election of senators
+    - Use of initiatives and referendums which allowed the people to propose and vote on legislation
+    - Unlimited coinage of silver
+    - Graduated income tax
+    - 8 hour work day
+- *No Populist candidate ever won a presidential election*
+    - However, they did gain a lot of attention and made the Democrats and Republicans scared
+        - Democrats took up the idea of unlimited coinage of silver, which secured them the 1896 popular vote
+
+**Urban Politics**  
+
+Urban political parties were controlled by *political machines* - groups of people who knew how to secure votes for their party  
+The faithful would be rewarded with jobs  
+  
+Tammany Hall  
+
+- New York City
+- Boss Tweed
+- Organized needs of businesses and immigrants and the poor
+    - In turn, the communities they helped were in their debt, and owed them their vote
+- Stole millions from taxpayers
