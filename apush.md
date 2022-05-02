@@ -1,6 +1,7 @@
 APUSH Notes
 ===========
-<sub>mofei w</sub>
+***mofei w***  
+Credit to Heimler's History
 
 Unit 1
 ------
