@@ -1,5 +1,7 @@
-APUSH
-=====
+APUSH Notes
+===========
+<sub>mofei w</sub>
+
 Unit 1
 ------
 **Societal makeup of Americas before Europeans, and their effect after**
@@ -1482,6 +1484,7 @@ However, the government did get involved when gains for business and the economy
     - Laissez Faire capitalists strongly supported the overthrow of the Hawaiian monarchy in 1893
         - Led to the US annexing Hawaii in 1898 - new markets
     - **Open Door Policy** between China and the US in 1899-1900
+        - China was carved into *Spheres of Influence* at the time
         - Advocated for equal trading rights in all the ports of China, which were being consumed by European powers
 
 ### Politics (again and again)
@@ -1559,3 +1562,656 @@ Tammany Hall
 - Organized needs of businesses and immigrants and the poor
     - In turn, the communities they helped were in their debt, and owed them their vote
 - Stole millions from taxpayers
+
+* * *
+
+Unit 7
+------
+Imperialism
+-----------
+Imperialism - the expansion of one country's political, economic, and military influence over another country  
+
+**Alaska**  
+
+- Purchased in 1867
+- Both Russia and Britain laid claims
+- William Seward, Lincoln/Johnson's Secretary of State, proposed a purchase for $7.2 million dollars
+    - Called Seward's Folly because the land seemed worthless
+    - They weren't laughing when gold was found in 1898
+
+### Imperialists
+Imperialists saw the gold in Alaska and wanted to expand, because there could be gold and other valuable stuff there too  
+They also wanted to secure new markets for American made goods, and justified expansion using *Social Darwinism*  
+
+*The Influence of Sea Power on History* by Alfred Thayer Mahan in 1890 - American needed a strong navy to get to the world stage  
+Congress approved the construction of a new massive Navy  
+Mahan also influenced a scramble to secure Pacific and Caribbean territories to establish American Naval dominance
+
+### Anti-Imperialists
+Self determination - a nation should be able to decide for itself who ruled it, and what laws were passed  
+
+Anti-Imperialists argued if America began taking over less powerful nations, they would be robbed of the rights of self determination, and America would really just be a big greedy hypocrite  
+America also had a long history of isolationism from foreign affairs - coming from Washington himself  
+
+Also, did the Constitution follow the American flag? Do people of the countries we take over get the same rights?
+
+### The Spanish American War
+Some Americans wanted Cuba, which at this point was a Spanish imperial colony  
+In 1895, Cuban nationalists attempted a rebellion but were crushed by Spain  
+
+Yellow journalism - competed for readership under Joseph Pulitzer v. William Randlph Hearst by publishing increasingly sensational stories  
+They began publishing stories that exaggerated the atrocities Spain committed against Cubans  
+People believed America *must* intervene in Cuba to prevent these atrocities  
+
+The US established a naval presence, and in 1898, the U.S.S. Maine exploded in Havana Harbor, killing over 200 Americans  
+Yellow journalists claimed Spain was the cause of this explosion, but it was actually accidental  
+President William McKinley issued an ultimatum to Spain: back off or we go to war... Spain agreed  
+
+Uh America still went to war and they shortly won
+
+**Effects of the war**  
+
+- Cuba gained independence*
+    - Platt Amendment allowed the US to intervene militarily in Cuba if American economic interest were threatened
+    - Basically a leash on Cuba
+- Annexation of the Philippines from Spain
+    - Assistant Secretary of the Navy Theodore Roosevelt began bombing the Spanish fleet at the Philippines before the war was even over
+        - He allied with Filipino nationalists and overthrew Spain
+    - Philippines ceded to the US for $20 million dollars
+    - Gathered under Emilio Aguinaldo to throw off US rule
+    - War lasted 3 years, and the US held on to the Philippines until after WWII
+
+**Annexation of Hawaii**  
+
+- Began in 1898
+- New incentive to do so now that the Philippines were under US control
+    - Philippines too far away
+    - Hawaii was roughly halfway between the US and the Philippines
+
+The Progressive Era
+-------------------
+### Progressive causes
+
+- Growing power of big business
+- Uncertainties in the economy
+- Increasingly violent conflicts between labor groups and their employers
+- Political machine power
+- Jim Crow segregation in the South
+- Lack of women's suffrage
+- Alcohol
+
+Their members were as diverse as their causes  
+However, they all agreed that *society, on some level, was deteriorating and the only cure was significant* government *intervention*  
+
+### Journalists - *Muckrakers*
+
+- Exposed American corruption
+- *The Jungle* by Upton Sinclair
+    - Exposed the unsanitary conditions of the meat packing condition
+- Ida Tarbell
+    - Exposed John D. Rockefeller's Standard Oil Company
+- Jacob Riis
+    - Photojournalist
+    - *How the Other Half Lives* exposed the unsanitary living conditions of the poor
+
+### Reforms
+Secret Ballot - wanted voting to be done in secret  
+
+- Would challenge the influence of political bosses (Tammany Hall)
+
+Direct election of senators  
+
+- Senators in office were there because of big businesses, not the people
+- **17th Amendment** in 1913 - state legislature -> people to elect senators
+
+**18th Amendment (1919) - Prohibition**  
+
+- Largely fought for by women
+- Led by Anti-Saloon League & American Temperance Society
+- Forbade the manufacturing and sale of alcohol
+
+**19th Amendment (1920) - Women's right to vote**  
+
+Legislative reforms - initiative, referendum, recall  
+
+- Problem: once a politician was elected, they could effectively ignore the people
+- Initiative - voters could require legislators to consider a bill that they chose to ignore
+- Referendum - voters themselves could vote on the adoption of proposed laws
+- Recall - a way to remove a corrupt politician before their term was complete
+
+*Scientific Management* by Frederick Taylor - increasing productivity of factories  
+
+### Desegregation
+Niagra Movement  
+
+- Led by W.E.B. Dubois
+- Planned protests and other acts for black rights
+
+National Association for the Advancement of Colored People  
+
+- Abolish all forms of segregation
+- Expand educational opportunities for black children
+
+### The National Stage
+The previous reforms were mostly on the regional stage  
+
+**Teddy Roosevelt**  
+
+- President after William McKinley got assassinated
+- Ran on the **Square Deal** program
+    - Anthracite Coal Strike at the beginning of his presidency
+        - Invited both the business leaders and the workers to the White House
+        - Took neither side, worked towards a *square deal*
+- Trust Buster
+    - **Sherman Antitrust Act**
+        - Began breaking up monopolistic businesses
+        - Did distinguish between "good" and "bad" trusts
+- Consumer protection
+    - Pure Food and Drug Act
+    - Meat Inspection Act
+- Conservation
+    - Forest Reserve Act
+        - Reserved 150 million acres of unspoiled land
+
+World War I
+-----------
+### Causes and the War
+**July of 1914 - the assassination of Archduke Franz Ferdinand**  
+
+**Triple Entente** - Britain, Russia, France - **Allied Powers**  
+**Triple Alliance** - Germany, Austria-Hungary, Italy - **Central Powers**  
+
+The US originally held to its tradition stance of neutrality  
+However, several events tempted it
+
+- Sinking of the Lusitania in 1915
+    - German submarines would sink any ship that entered the British Isles war zone
+    - The Germans sunk the passenger ship
+        - 128 American civilians were killed
+    - Americans were enraged, but President Woodrow Wilson maintained neutrality
+    - However, the Germans kept sinking ships and the US threatened to break diplomatic relationships with Germany
+        - Step before declaring war
+        - They chilled out
+- German unrestricted submarine warfare
+    - Germany stopped for a couple years, but didn't learn their lesson
+    - Started sinking all ships that entered the war zone again
+        - Some were American
+    - Again, President Wilson didn't enter the war
+- Interception of the Zimmermann Telegram
+    - Sent to Mexico asking them to start a war with the US
+        - In compensation, Germany would help Mexico regain land lost to the US
+    - The US entered the war on April 2nd, 1917
+
+The war only lasts for 20 more months following this, so they really don't do all that much  
+American Expeditionary Forces commanded by John Pershing plugged up weaknesses in the French and British lines  
+
+- American troops also took command over a portion of the Western Front
+
+The war officially ended on November 11th, 1918 at the **Treaty of Versailles**  
+
+### Aftermath
+**14 Points**  
+
+- Freedom of the seas
+- Self determination of nations
+- ***League of Nations***
+    - Worldwide representative body where countries could negotiate their problems instead of going to war
+
+Unfortunately, Wilson got the Spanish Flu while he was in France and he became ill, missing many of the meetings  
+Britain and France got what they wanted, punishing Germany in the Treaty  
+
+- Wilson was not eager to do so because he knew a stable Europe required a robust Germany
+
+The League of Nations was created, but Congress refused to ratify it  
+
+- They feared membership would drag the United States into war without Congressional approvement
+- So the League was formed, but without the United States (nice one)
+
+### America During the War
+WWI was a *total war* - when a country mobilizes much of its economic, industrial, and social resources in order to win  
+
+Wilson established wartime agencies with *progressive efficiency* (Taylorism)  
+
+- War Industries Board
+    - Coordinated labor and management to keep factories going
+- Food Administration
+    - Ensured that food production was sufficient
+        - For both troops and civilians at home
+
+Many people migrated from rural areas to urban industrial centers to find work due to the increased war manufacturing  
+
+**Immigration**  
+Immigration from European countries was peak in the years before WWI  
+
+- Emergency Quota Act of 1921
+    - Limited immigration to 3% of the population measured by the 1910 census
+- National Origins Act of 1942
+    - Restricted immigration even further
+
+These Acts reduced immigration, especially from Southern Europe, Eastern Europe, and Asia
+
+**Migration too**  
+Great Migration - huge portions of the Southern black population migrated to the urban industrial centers of the North (Part 2 of the Exoduster movement)
+
+- Mainly to escape the oppressive atmosphere of Southern society
+    - Were treated as 2nd class citizens
+- Many settled in Harlem, New York
+    - Harlem Renassaince
+
+The South was a terrible place for blacks at the time because of Jim Crow laws, poll taxes, and literacy tests  
+
+Another reason for migrating was for jobs  
+
+- Immigration laws drained the worker pool
+- Black migrants from the South came to fill these jobs
+    - They still faced discrimination in the North
+    - Tulsa Race Riots/Tulsa Massacre
+        - Began because a white woman claimed a black shoe shiner assaulted her
+        - Whites and blacks fought in mobs
+        - Resulted in mass destruction of property in black neighborhoods
+        - Left over 10,000 homeless
+        - 300 black people killed
+
+**Harlem Renassaince**  
+
+- Revival of the arts and intellectual pursuits of the recently migrated black population
+- Jazz
+    - Louis Armstrong
+    - Duke Ellington
+- Writing
+    - Langston Hughes
+    - Claude McKay
+    - Lost Generation
+        - F. Scott Fitzgerald
+        - Ernest Hemingway
+
+**Public opinion**  
+
+- Espionage Act of 1917/Sedition Act of 1918
+    - Made it a crime to oppose the war, interfere with draft, or say anything disloyal
+- Schenck v. The United States
+    - Charles Schenck and his Socialist Party buddies wrote pamphlets urging young men to resist the draft
+    - He was arrested for violating the Espionage Act
+    - Court upheld this restriction of civil liberties, saying freedom of speech is *not* absolute
+        - When speech constitutes a clear and present danger, then it is constitutional for it to be silenced
+- Government also sought to suppress reports of the Spanish Flu
+    - Americans dying by the thousand
+    - Federal government forbid publications of the death count and nature of the flu
+        - Would damage war morale
+
+**The Red Scare**  
+Anti-Communism sentiment, beginning in 1919  
+Americans were afraid of Communist infiltration after the success of the Russian Revolution  
+
+Palmer Raids - Attorney General Mitchell Palmer tasked J. Edgar Hoover to secretly gather information on suspected radicals, leading to mass arrests (6,000 arrests and 500 deportations)  
+
+The 1920s
+---------
+### The Assembly Line & Mass Production
+**Henry Ford** - made cars (Model T)  
+
+- **Assembly Line**
+    - Large conveyor line
+    - Each worker would have the same job, repeated
+    - It was insanely efficient
+    - Completely changed the economy
+        - Everything could now be mass produced for cheaper and more efficiency
+
+By the end of the decade, Americans owned ~80% of all automobiles worldwide  
+
+- With cars, people began settling outside urban centers
+- Cities were remade, centered around cars the roads
+
+**American standard of living rose***  
+
+### Culture & Lifestyle
+
+Sigmund Freud's studies on human psychology -> ads learned to promote products through subconsciousness
+
+**Popular Culture**  
+Radio - almost nonexistent at the beginning of the 1920s, but by the end of the decade many Americans had them  
+
+- By 1923, there were ~600 official radio broadcasts
+    - New programs, entertainment
+
+Movies - by the end of the 1920s, almost 3/4 of the American population was attending movies on a weekly basis  
+
+- *The Jazz Singer* - the first movie to have synchronized sound & music
+    - End of silent film era
+
+These new medias spread national culture and emphasized regional and cultural differences (especially of race, ethnicity, and region)  
+
+- Very few radio shows or movies depicted the black experience in America
+    - This lead to the Harlem Renaissance
+- Popular culture often depicted urban life
+    - People living in rural areas saw this distinction
+
+**New opportunities for women**  
+
+- Most middle class women expected to have babies and do house work
+- Women in urban centers had more opportunities
+    - Nursing
+    - Teacher
+    - Unskilled labor jobs in factories
+        - Paid a fraction of a man's wages in the same job
+- **Flappers**
+    - Symbol of women's liberation
+    - Cut hair short
+    - Smoked
+    - Drank
+    - Showed ankles in public *(oh no)*
+
+### Immigration (again and again)
+After WWI, there was another influx of immigrations -> another backlash of **nativism**  
+Same thing that happened in the waves of 1840s and 1880s  
+
+**Urban v. rural Protestants**  
+Urban Protestants -> Modernists - faith was large enough to embrace the changing culture  
+Rural Protestants -> Fundamentalists - condemned the degradation of the morals they saw in the cities  
+
+- Believed that every word of the Bible must be taken literally
+    - I mean, not *every*
+    - *Believed that every word of the Bible must be taken *seriously*
+    - Did take 6 Day Creation in Genesis I literally
+        - Scopes Monkey Trial in 1925
+        - Illegal to teach Darwin's Theory of Evolution in Tennessee
+        - John Scopes did so anyways, and was arrested
+        - Highly publicized case
+        - Scopes was defended by Clarence Darrow
+        - Prosecturor was Populist hero and 3x Presidental Reject William Jennings Bryan
+        - In the end, Scopes was convicted for breaking the law but overturned on a technicallity
+        - General sentiment was that modernism had triumphed over fundamentalism
+
+The Great Depression
+--------------------
+### Causes
+The 1920's were in general an era of American prosperity  
+But... the stock market crashed on October 29th, 1929 - **Black Tuesday**  
+
+- Farmers had overproduced for several years
+    - Severe debt
+    - High tariffs
+        - Hawley-Smoot Tariff of 1930 crippled the ability of the US to sell excess products on a global scale
+- Stock was artificially inflated due to risky investment behavior
+    - Buying on margin/speculation
+    - Assumed that stock market prices would continue to rise -> common practice to borrow money to buy stocks
+        - Stock prices rose, and you made back to the money you borrowed (buying on margin)
+        - But when the bottom fell out, not only did you lose all your money you were in debt too
+
+### Life During the Depression
+- Poverty and homelessness skyrocketed
+    - People began foreclosing on mortgages
+- Hoovervilles
+    - Named after President Hoover (Republican)
+        - Criticism of his laissez faire policies at the beginning of The Depression
+        - Hoover thought that that given enough time, the economy would correct itself
+        - Minimal government intervention
+
+Democrat Franklin D. Roosevelt won the 1932 Presidential Election (by a *lot*)  
+
+- Roosevelt was the opposite of Hoover
+- He campaigned on heavy government intervention
+    - He expanded more to expand the size & scope of the federal government than any president before him
+- Transformed the US into a *limited welfare state*
+    - Government would take responsibility for the social and economic welfare of its citizens
+
+### New Deal
+**Three R's**  
+
+- **R**elief for the unemployed
+    - Public Works Administration (PWA)
+        - Employed Americans to do federal infrastructure work like building roads, dams, and bridges
+    - Tennessee Valley Authority (TVA)
+        - Hired people to run electrical power plants and control flooding & erosion
+    - Civilian Conservation Corps (~~J~~CCC)
+        - Employed young men between 18-24 to manage soil conservation and forest projects
+- **R**ecovery for businesses
+    - National Industrial Recovery Act of 1933
+        - Main factor of economic hardship was the cutthroat competition
+        - Established a set of codes agreed upon by both workers and corporations
+        - Minimum wage
+        - Shorter working hours
+        - Regulation of prices of certain petroleum products
+- **R**eform of economic institution
+    - Glass-Steagall Act of 1933
+        - Increased regulation in banks
+        - Limited ways in which banks could invest peoples' money
+    - Federal Deposit Insurance Corporation (FDIC)
+        - Guaranteed peoples' bank deposits with federal money
+    - Securities and Exchange Commission (SEC)
+        - Regulated the stock market
+        - Prevented behavior like buying on margin and insider trading
+
+**The Second Phase**  
+
+- Social Security Act of 1935
+    - Provided a safety net of income for workers over the age of 65
+    - Part of a worker's wages were withheld by the federal government and then paid back when they reached retirement
+
+The New Deal was criticized by both liberals and conservatives  
+Liberals griped because the New Deal did too much for big businesses at the expense of the unemployed and the poor - wasn't liberal enough??  
+Conservatives criticized the New Deal because of the extreme federal overreach
+
+The Judicial Reorganization Bill/Court Packing Scheme would allow the president to appoint new Supreme Court Justices for every Justice that was older than 70.5 years old  
+
+- Roosevelt could at the time appoint 6 additional judges
+- Aimed to pack the court with judges sympathetic to his New Deal
+- Caused by Supreme Court rulings constricting his New Deals' scope
+- However, the bill never happened
+    - Both parties thought that Roosevelt would near dictatorship status
+
+***The New Deal as a whole transformed the United States into a limited welfare state and seriously expanded the aims of modern American liberalism***  
+
+It left a legacy of reforms and regulatory agencies, while also fostering a long term political re-alignment of black people, working class, and ethnic minorities to the Democratic Party  
+
+Foreign Policy
+--------------
+American foreign policy was largely *isolationism* after WWI  
+President Warren G. Harding ran on the campaign promise of a return to normalcy  
+
+**Fordney-McCumber Act of 1922** raised tariffs dramatically  
+**Smoot-Hawley Tariff of 1930** drove them up even more  
+
+**Kellogg-Briand Pact** - a pact signed among 63 nations (including the US) that tried to make war illegal  
+
+- ??? LMFAOOO
+- Negotiated and signed outside the authority of the League of Nations, so impossible to enforce
+    - Basically useless
+
+In the 1930s, US isolationism became harder and harder to maintain  
+Many Americans were concerned about the rise of Fascist and Totalitarian governments in Europe  
+
+- Benito Mussolini
+    - Italian Fascist Party
+- Adolf Hitler
+    - German Nazi Party
+- Michinomiya Hirahito
+    - Japanese
+
+Americans didn't like this, but didn't get involved  
+
+- Watched as Japan invaded Manchuria in 1931
+- Watched as Germany occupied the Rhineland in 1936
+    - Then Austria in 1937
+    - Then Czechoslovakia in 1938
+- Watched as Italy took over Ethiopia in 1936
+
+Again, Americans did nothing  
+
+***...And then Hitler invaded Poland in September of 1939, and WWII began***  
+
+World War II
+------------
+Reasoning for not joining the war (Isolationists)  
+
+- > 100,000 Americans lost their lives last time the US got involved in an European war (WWI)
+- Nye Committee
+    - Presented evidence that certain American corporations had made a shit ton of profit off of America's involvement in WWI
+
+Reasons for joining the war (Interventionists)  
+
+- The idea of isolationism goes all the way back to George Washington
+    - Back then, the Atlantic Ocean was a big enough buffer
+    - Now, times have changed and this is no longer the case
+        - Submarines and airplanes
+        - If Britain was defeated, there would be nothing stopping Hitler from bringing the war to America
+
+Franklin D. Roosevelt was deeply sympathetic to Britain's cause, and thought that the US should be involved, but he didn't have the largely isolationist American public  
+He began gradually giving aid to the Allies, Great Britain in particular  
+
+- Cash and Carry Program - persuaded Congress to pass a looser Neutrality Act that allowed any belligerent in the war to purchase armaments from the US as long as they paid cash and used their own ships to transport them
+    - Britain effectively controlled the seas, so it benefited them the most
+    - Britain was running low on cash
+        - President Roosevelt x Prime Minister Churchill -> Destroyers for Bases
+- Destroyers for Bases Program
+    - US exchanged American destroyers for land rights on various British possessions
+- Lend-Lease Act
+    - Allowed Britain to obtain the arms they needed from the US on credit
+
+At this point, technically America was neutral but they were really supporting Britain and the Allies  
+
+***...Until December 7th, 1941, when Japan bombed Pearl Harbor***
+
+### Joining the War & The Home Front
+Over 2,400 Americans had died in the Pearl Harbor attack  
+That evening, Roosevelt and Congress declared war on Japan  
+Hitler declared war on America, and now America was in the war  
+
+Federal spending increased ~1,000%  
+This increased GDP by 15%, **effectively pulling America out of the Great Depression**  
+
+Due to the War Production Board and the Office of War Mobilization, automobile factories began producing planes and tanks, and other factories other war munitions  
+
+Crippling unemployment -> labor shortage because men began shipping off for the war  
+
+- Government made efforts to get women to work in factories
+    - Rosie the Riveter poster
+    - Women (especially in middle & upper classes) were discouraged from industrial work at the time
+
+~1 million black Americans joined the military as well  
+
+- Double V Campaign
+    - NAACP encouraged black Americans to the cause
+    - Victory in both the war and racism at home
+- There was segregation between black regiments and white regiments
+- Tuskegee Airmen
+    - Flew in almost 1,600 combat missions
+    - Earned distinction
+
+~300,000 Mexican Americans as well  
+
+- However, many were agricultural workers
+- 1942 provision that would allow Mexicans farmworkers to enter the US to help with planting and harvesting without going through the normal procedures
+
+Throughout the war, almost 15 million Americans served  
+
+- Selective Training and Service Act of 1940
+    - Passed 1 year before the US entered the war
+    - First peacetime military draft in US history
+
+Japanese Relocation  
+
+- Began in 1942
+- Large population of Japanese *Americans* on the West Coast
+    - American citizens
+    - Yeah no white people didn't care
+- Executive Order 9066
+    - Authorized federal government to relocate > 100,000 Japanese Americans to internment camps
+    - Even applied to their children, who were born on American soil
+    - Removed from homes
+    - Confiscated personal property
+    - **(Fred) Korematsu v. The United States in 1944**
+        - American Civil Liberties Union represented Korematsu
+        - Argued that the forced removal was a Constitutional violation of the 5th Amendment
+        - 5th Amendment protects Americans from answering for crimes without the indictment of a grand jury
+        - Supreme Court ruled the Japanese Relocation was Constitutional because it was a *"Marshall necessity arising from the danger of espionage and sabotage"*
+    - In 1988, the federal government formally apologized
+        - Offered them or their surviving descendants $20,000 dollars in reparation payments
+
+### The Pacific Theater
+US war efforts started out concentrated in the Pacific Theater  
+
+- Wanted revenge against Japan
+- Japan was winning during the early months
+    - Two battles turned the tide in 1942
+        - Battle of the Coral Sea
+        - Battle of Midway
+    - The US pushed back the Japanese as a result
+
+**Island Hopping Campaign** - bypassed the heavily fortified Japanese islands in favor of smaller, less strategic islands, cutting off the Japanese supply line  
+By cutting off supplies, the bigger Japanese islands were disabled as well  
+
+**Atomic Bombs**  
+Franklin Roosevelt died in April 1945, and was succeeded by his Vice President, Harry Truman  
+He learned that the US already had nuclear bombs courtesy of the **Manhattan Project**  
+
+On August 6th, 1945, the US dropped ***Little Boy*** on Hiroshima  
+Three days later, ***Fat Man*** was dropped on Nagasaki  
+
+The effects were devastating, with ~140,000 deaths  
+
+On September 2nd, 1945, Japan officially surrendered *(V-J Day)*
+
+### The European Theater
+Russia was the main Allied defender of the European Theater  
+
+- Tehran Conference
+    - Stalin, Churchill, and Roosevelt met in November of 1943
+    - Planned the D-Day Invasion
+        - Normandy beaches of Northern France
+- Germans had conquered and occupied France
+    - Puppet government in Nazi control
+
+**D-Day Invasion** began on June 6th, 1944  
+
+- Largest amphibious invasion in the history of the world
+- Over 200,000 Allied troops landed
+- More than 1 million followed in the following weeks
+- After a month, after heavy casualties, Allied forces pushed the Germans back and liberated France
+- Then the Allies made their final push towards Berlin
+
+**Battle of the Bulge** - Hitler's last major offensive assault against the Allies  
+
+- Winter of 1944-1945
+- Bulge - strategy of driving a wedge between the Allied armies and Belgium
+- The strategy failed
+- Heavy death toll on both sides
+
+Hitler killed himself on April 30th, 1945  
+Germany surrendered on May 7th, 1945 *(V-E Day - Victory in Europe Day)*
+
+**The Holocaust**  
+
+- Germany's terrible atrocities against Jews and other minorities
+- Jewish concentration camps
+    - Condemned to forced labor or death
+- ~6 million Jews had been killed
+
+### Post War Diplomacy
+The United States emerged from the war as the most powerful nation on Earth  
+
+1. No battles (besides Pearl Harbor) were fought on American soil
+    - Relatively little domestic destruction
+2. Role in the victory of the war
+    - Only country to have nuclear weapons (for now)
+
+**Yalta Conference**  
+
+- Churchill, Stalin, and Roosevelt met in February of 1945
+- Germany would be jointly occupied by Soviets, Americans, the British, and the French
+- Eastern European nations would have the ability to choose their leaders through free elections
+
+However, after the war ended, Stalin claimed these nations for the Soviet Union  
+He argued these countries would act as a buffer zone between Russia and Germany  
+
+***The US and Britain wanted to limit communism from spreading***, so they were not happy *(-> Marshall Plan)*  
+
+The **United Nations** were created to be an international peacekeeping assembly  
+
+- Already tried this after WWI with the League of Nations
+    - Failed miserably because the US Congress wouldn't even let the US join
+    - No ability to enforce anything
+- Goal: to prevent future wars
+- But the United Nations actually had the infrastructure to keep the peace
+    - Whole lot of peacekeeping soldier supplied by member nations
+        - Mission to stabilize unstable environments when they arise
