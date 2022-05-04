@@ -3,7 +3,7 @@ AP Computer Science A Notes
 ***mofei w***
 
 ### Hello World
-```
+``` java
 public class HelloWorld {
     public static void main(String args[]) {
         System.out.println("Hello World"); // pay close attention to spelling here :)
@@ -13,14 +13,14 @@ public class HelloWorld {
 
 ### Math
 **Conversions**  
-```
+``` java
 (int) myDouble // double => int via casting!!!  
 Integer.parseInt(myString) // string => int  
 Integer.toString(num) // int => string  
 ```  
 
 **Math Class**  
-```
+``` java
 // static methods; no Math instance is needed  
 
 Math.abs(-1) // absolute value => 1  
@@ -31,7 +31,7 @@ Math.PI // pi
 ```  
 
 ### DeMorgan's Law
-```
+``` java
 !(a <= b || b > c)
 
 // apply DeMorgan's Law
@@ -39,7 +39,7 @@ Math.PI // pi
 ```  
 
 ### Strings
-```
+``` java
 int x = 1;
 int y = 3;
 
@@ -65,7 +65,7 @@ s1.substring(0, 4) // "shac"
 ```  
 
 ### Arrays
-```
+``` java
 // Java arrays can not change lengths after initialization
 
 String[] classes = {"Math", "ELA", "History", "Science", "Art"};
@@ -90,7 +90,7 @@ for (String class : classes) {
 ```  
 
 ### ArrayLists
-```
+``` java
 import java.util.ArrayList;
 
 ArrayList<Type> name = new ArrayList<Type>();
@@ -98,22 +98,24 @@ name.add("hi"); // add
 name.set(0, "hi") // sets the item at position 0
 name.remove(1) // removes the item at position 1 - the indexes shift to compensate!!!
 
+name.contains("mofei") // checks if list contains "mofei"
+name.size() // length of list
 ```  
 
 ### Control Flow
 **If**  
-```
+``` java
 if (score == 5) {
-    this.isHappy = true;
+    this.isHappy = true;  // :)
 } else if (score == 4) {
-    this.isHappy = true;
+    this.isHappy = true;  // :/
 } else {
-    this.isHappy = false;
+    this.isHappy = false; // :(
 }
 ```  
 
 **While**  
-```
+``` java
 int z = 0;
 while (z < 10) {
     doSomething(); // does this 10 times
@@ -122,7 +124,7 @@ while (z < 10) {
 ```  
 
 **For**  
-```
+``` java
 for (int z = 0; z < 10; z++) {
     doSomethingElse(); // also does this 10 times
 }
@@ -130,7 +132,7 @@ for (int z = 0; z < 10; z++) {
 
 ### Object Oriented Programming
 **Classes and Inheritance**  
-```
+``` java
 public class StudentAthlete extends Student {
     private String sport;
 
@@ -202,7 +204,7 @@ public class Student {
 ```  
 
 **Interfaces**  
-```
+``` java
 public interface Summable {
     public int add(Summable other);
 
@@ -224,10 +226,16 @@ public class Book implements Summable {
 ```  
 
 **Polymorphism**  
-!!!!!!!!!!!!!!!!
+``` java
+// many shapes/forms
+// child classes inherit methods, even if you don't explicitly define them
+// however, the more commom usage is overriding the parent's method
+// using the same method signature
+// this results in doing the same thing, in a different form
+```  
 
 **References**  
-```
+``` java
 Circle c1 = new Circle("blue");
 Circle c2 = new Circle("red");
 
@@ -240,4 +248,183 @@ c1.setColor("purple");
 ```  
 
 ### Algorithms
-!!!!!!!!!!!!!!
+**Linear search/Sequential search**  
+``` java
+// go one by one looking for an element, and return the index
+for (int i = 0; i < array.length; i++) {
+    if (array[i] == key) {
+        return i;
+    }
+
+    return -1;
+}
+```  
+
+**Binary search**  
+``` java
+// assumes the list is sorted and splits the array in half every iteration
+// much faster than linear sort
+public int binarySearch(int[] array, int number) {
+    // set markers on low and high indices
+    int low = 0;
+    int high = array.length - 1;
+
+    while (low <= high) {
+        // get middle index (because array is already sorted)
+        int mid = (low + high) / 2;
+
+        // compare current value and passed number
+        if (array[mid] == number) {
+            // return the index
+            return mid;
+        } else if (array[mid] < number) {
+            // move markers to the midpoint +/- 1
+            // this discards half of the array
+            // because low and high start at 0 and the last index respectively
+            low = mid + 1;
+        } else {
+            high = mid - 1;
+        }
+    }
+
+    // return -1 if not found
+    return -1;
+}
+```  
+
+**Selection sort**  
+``` java
+// steps through indexes linearly and swap with the smallest number remaining
+// | sorted | i++ => unsorted |
+for (int curr = 0; curr < arr.length - 1; curr++) {
+    // find minimum in the rest of the list
+    int min = curr;
+    for (int i = min; i < arr.length; i++) {
+        if (arr[i] < arr[min]) {
+            min = i;
+        }
+    }
+
+    // swap the minimum into the correct position
+    int tmp = arr[curr];
+    arr[curr] = arr[min];
+    arr[min] = tmp;
+
+    // sorted after n - 1 passes
+    // the first i elements are sorted after the ith pass
+}
+```  
+
+**Insertion sort**  
+``` java
+// steps through indexes linearly and inserts into sorted section of array
+// | sorted <= i++ | unsorted |
+for (int i = 1; i < arr.length; i++) { // start with 1 instead of 0
+    int curNum = arr[i];
+    int curIndex = i - 1;
+
+    while (curIndex > -1 && arr[curIndex] > curNum) {
+        arr[curIndex + 1] = arr[curIndex];
+        curIndex--;
+    }
+
+    arr[curIndex + 1] = curNum;
+
+    // best case: sorted list; worse case: reverse sorted list
+    // sorted after n - 1 passes
+    // the first i + 1 elements are sorted after ith pass (first was already sorted)
+}
+```  
+
+**Merge sort**  
+``` java
+public void mergeSort(int[] arr) {
+    // create temporary array
+    int[] tmp = new int[arr.length];
+
+    // call helper
+    mergeSortHelper(arr, 0, arr.length - 1, temp);
+}
+
+private void mergeSortHelper(int[] arr, int from, int to, int[] tmp) {
+    // if the array length is greater than 1
+    if (to - from >= 1) {
+        // middle of array
+        int mid = (from + to) / 2;
+
+        // call mergeSort() on the left and right parts
+        mergeSortHelper(arr, from, mid, tmp);
+        mergeSortHelper(arr, mid + 1, to, tmp);
+
+        // merge
+        merge(arr, from, mid, to, tmp);
+    }
+
+    // base case is the nonexistent else in the if (do nothing)
+}
+
+private void merge(int[] arr, int from, int mid, int to, int[] tmp) {
+    int i = from;    // track left array position
+    int j = mid + 1; // track right array position
+    int k = from;    // track temporary position
+
+    // while left and right trackers are in bounds
+    while(i <= mid && j <= to) {
+        // if the element in the left subarray is less than the right
+        // then it is next in the merged list
+        if (arr[i] < arr[j]) {
+            // set next position of merge list
+            tmp[k] = arr[i];
+
+            // advance side
+            i++;
+        } else {
+            tmp[k] = arr[j];
+            j++;
+        }
+
+        // advance temporary array
+        k++;
+    }
+
+    // might have missed elements from either list
+    // take the left tracker all the way to the end
+    while (i <= mid) {
+        tmp[k] = arr[i];
+        i++;
+        k++;
+    }
+
+    // take the right tracker all the way to the end
+    while (j <= to) {
+        tmp[k] = arr[j];
+        i++;
+        k++;
+    }
+
+    // copy over the temporary to elements
+    for (k = from; k <= to, k++) {
+        arr[k] = tmp[k];
+    }
+}
+```  
+
+### Recursion
+``` java
+// break the problem down into similar sub-problems of the same form
+// base case - simplest form of the recursive problem - causes the method to end
+// recursive case - makes the problem one step smaller => base case
+
+// factorial example
+// factorial(0) = 1 (base case)
+// factorial(n) = n * factorial(n - 1) (recursive case)
+public int factorial(int n) {
+    // base case
+    if (n == 0) {
+        return 1;
+    }
+
+    // recursive case
+    return n * factorial(n - 1);
+}
+```  
